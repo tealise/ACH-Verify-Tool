@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Files>
+    <input></input>
+    <output></output>
+    <patch></patch>
+    <logging></logging>
+  </Files>
+  <ACH>
+    <origin>
+      <routing></routing>
+      <name></name>
+      <dfi></dfi>
+    </origin>
+    <destination>
+      <routing></routing>
+      <name></name>
+    </destination>
+  </ACH>
+</Settings>
